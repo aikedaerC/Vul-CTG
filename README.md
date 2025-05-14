@@ -43,7 +43,7 @@ bash joern-install.sh --interactive
 
 ### Dataset
 
-We collected 11 open-source function-level vulnerability detection datasets, which can be downloaded from [google drive](https://drive.google.com/file/d/1Z48QiXMIxrveZZYqypGNgCxEO18obC1Z/view?usp=sharing)
+We collected 11 open-source function-level vulnerability detection datasets, which can be downloaded from [google drive](https://drive.google.com/file/d/1Z48QiXMIxrveZZYqypGNgCxEO18obC1Z/view?usp=sharing) and [baiduNetDisk](https://pan.baidu.com/s/1OTIyhULmBAUvq3Tvm1GRxg?pwd=32rk)
 
 ### baselines
 
