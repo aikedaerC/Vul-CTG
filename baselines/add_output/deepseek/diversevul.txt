@@ -1,0 +1,19 @@
+Metrics for test:
+Accuracy:  0.8754
+Precision: 0.0592
+Recall:    0.0952
+F1 Score:  0.0730
+
+=== Final Results Summary ===
+
+Metrics for test:
+Accuracy:  0.8754
+Precision: 0.0592
+Recall:    0.0952
+F1 Score:  0.0730
+
+TEST Set:
+Accuracy  : 0.8754
+Precision : 0.0592
+Recall    : 0.0952
+F1        : 0.0730

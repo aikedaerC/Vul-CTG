@@ -1,0 +1,5 @@
+Metrics for test:
+Accuracy:  0.2700
+Precision: 0.1054
+Recall:    0.8304
+F1 Score:  0.1871
